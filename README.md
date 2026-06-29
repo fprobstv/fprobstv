@@ -63,10 +63,3 @@ A full-stack, containerized Kanban platform designed for seamless real-time sync
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
-###
-
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/fprobstv/fprobstv/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
